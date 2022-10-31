@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "752774577321",
+    "firebase_url": "https://cricket2021-f3241-default-rtdb.firebaseio.com",
+    "project_id": "cricket2021-f3241",
+    "storage_bucket": "cricket2021-f3241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752774577321:android:60f8e32371f8ad5872bdb8",
+        "android_client_info": {
+          "package_name": "com.example.edi2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752774577321-4ls5dc469u2u222h8eqo9fci8vbo2311.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edi2",
+            "certificate_hash": "5d0556ecc6372996413b53609a6d06efe2d3867b"
+          }
+        },
+        {
+          "client_id": "752774577321-8mtm044bmnl9n1ph1ckrujah50babtdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ12odrsi8o8AX_XE6iwLPOSaMs4fKnA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752774577321-8mtm044bmnl9n1ph1ckrujah50babtdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
